@@ -1,5 +1,19 @@
 package model;
 
+//A sleep advisor program. This program will input basic background information from the user for a profile,
+//as well as various booleans to determine how their lifestyle practices are effecting their sleep. 
+//They will then enter their sleep stage percentages, recorded from their own personal smart accessory, 
+//or will use a basic sleep cycle from the average American, but with the users practices in this cycle. 
+//The program will then do basic calculations to then display the graph of the predicted sleep stages 
+//they were in during the time, as well as what changes need to be done to reach their goal.
+/**
+* @author Michael Sedykh - masedykh
+* CIS175 - Fall 2023
+* Sep 15, 2023
+*/
+
+//CHANGES BLAH BLAH to test idk
+
 //	TODO
 // Imports & Columns
 
